@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Phoenix1128/Nookbot.git"
+    "url": "https://github.com/fatalacorn/Nookbot"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Phoenix1128/Nookbot/issues"
+    "url": "https://github.com/fatalacorn/Nookbot/issues"
   },
-  "homepage": "https://github.com/Phoenix1128/Nookbot#readme",
+  "homepage": "https://github.com/fatalacorn/Nookbot#readme",
   "dependencies": {
     "discord.js": "^11.5.1",
     "enmap": "^5.1.2"
