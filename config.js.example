@@ -12,7 +12,7 @@ const config = {
 
 
   // Bot Perms and Stuff
-  ownerID: '392398406552780800',
+  ownerID: '686607214039007262',
 
   admins: [],
 
